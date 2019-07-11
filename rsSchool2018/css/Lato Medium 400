@@ -1,0 +1,29 @@
+Lato Medium 400
+Lato Bold 700
+Lato Heavy === Black 900
+Lato Semibold 600
+Lato Regular 400
+Lato Light 300
+Lato Black 900
+Lato Thin 100
+
+Montserrat UltraLight === ExtraLight 
+
+font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+
+color: ;
+	font-family: ;
+	font-size: ;
+	font-weight: ;
+	line-height: ;
+	letter-spacing: ;
+
+
+	Package img fluid? Вообще всё что картинками, fluid?
+	Как сделал значок > для списка
+	
+	Ячейки одной ширины как?
+	Как сделать границу header-top
+	Границе в Register
+	
