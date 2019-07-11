@@ -9,5 +9,5 @@
 5. https://temons.github.io/tegro/
 
 React:
-1.https://temons.github.io/deploy-react
-2. https://starwarstemons.herokuapp.com
+1.https://temons.github.io/deploy-react/
+2. https://starwarstemons.herokuapp.com/
